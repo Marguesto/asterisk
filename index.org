@@ -1,0 +1,12 @@
+#+title: index
+* asterisk
+** Programming
+*** Repositories: [[github:Marguesto][github]],[[https://git.disroot.org/asterisk][ disroot]].
+
+** Journals
+*** Music: an orged Music reviews and journal.
+*** Film: an orged Film watchlist, reviews and journal.
+*** Book: an orgded Book readinglist, reviews and journal.
+** Contact
+*** E-mail: marguesto@disroot.org
+*** IRC: marguesto\ @ Libera.Chat, IRCnet and Undernet.
